@@ -1,20 +1,17 @@
 import React from "react";
+import profile_pic from "../images/profile_pic.jpg"
 
 function Home() {
   return (
     <div>
-      <h1>Home Page</h1>
+      <h1>Hello</h1>
+      <div className="imageLeft"><img className="profile" src={profile_pic} alt="profile" />
       <p>
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque velit, lobortis ut magna
-        varius, blandit rhoncus sem. Morbi lacinia nisi ac dui fermentum, sed luctus urna tincidunt.
-        Etiam ut feugiat ex. Cras non risus mi. Curabitur mattis rutrum ipsum, ut aliquet urna
-        imperdiet ac. Sed nec nulla aliquam, bibendum odio eget, vestibulum tortor. Cras rutrum
-        ligula in tincidunt commodo. Morbi sit amet mollis orci, in tristique ex. Donec nec ornare
-        elit. Donec blandit est sed risus feugiat porttitor. Vestibulum molestie hendrerit massa non
-        consequat. Vestibulum vitae lorem tortor. In elementum ultricies tempus. Interdum et
-        malesuada fames ac ante ipsum primis in faucibus.
+      My name is Molly Durst. <br/>
+        I am a web designer and developer who studies New Media Communication (UX focused) <br/>
+        and Full-Stack development at the Ohio State University.<br/>
       </p>
-    </div>
+    </div></div>
   );
 }
 

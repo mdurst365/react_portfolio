@@ -1,20 +1,23 @@
-//imports
 import React from "react";
-//import container component and any other needed components here
-import HeaderInfo from "./components/HeaderInfo";
-import FooterInfo from "./components/FooterInfo";
-import ProjectInfo from "./components/ProjectInfo";
-import HeroImage from "./components/HeroImage"
+import { BrowserRouter as Router, Route } from "react-router-dom";
+import NavTabs from "./components/NavTabs";
+import Home from "./components/pages/Home";
+import Portfolio from "./components/pages/Portfolio";
+import Projects from "./components/pages/Projects";
+import Contact from "./components/pages/Contact";
 
 function App() {
-    //this will return the containers
-    return<>
-    <HeroImage/>
-    <HeaderInfo/>
-    <ProjectInfo/>
-    <FooterInfo/> 
-    </>
-  }
+  return (
+    <Router>
+      <div>
+        <NavTabs />
+        <Route exact path="/" component={Home} />
+        <Route exact path="/Portfolio" component={Portfolio} />
+        <Route exact path="/Projects" component={Projects} />
+        <Route path="/contact" component={Contact} />
+      </div>
+    </Router>
+  );
+}
 
-//export
 export default App;

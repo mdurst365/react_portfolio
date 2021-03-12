@@ -10,7 +10,7 @@ import FooterInfo from "./components/FooterInfo"
 
 function App() {
   return (
-    <Router>
+    <Router basename={ process.env.PUBLIC_URL }>
       <div>
         <HeroImage/>
         <NavTabs />

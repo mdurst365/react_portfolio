@@ -25,58 +25,58 @@ function Projects() {
     <div className="col">
     <img className="projectImg" src={day_planner} alt="day_planner" />
     <br/>
-    <button className="btn btn-primary" data-toggle="button">See it Live</button>
+    <button className="btn btn-primary" data-toggle="button"><a href="https://mdurst365.github.io/dayplanner/" target="_blank" rel="noreferrer">See it Live</a></button>
     <br/>
-    <button className="btn btn-info" data-toggle="button">View the Code</button>
+    <button className="btn btn-info" data-toggle="button"><a href="https://github.com/mdurst365/dayplanner" target="_blank" rel="noreferrer">View the Code</a></button>
     <br/>  
     </div>
     <div className="col">
     <img className="projectImg" src={clock_icon} alt="clock_icon" />
      <br/>
-    <button className="btn btn-primary" data-toggle="button">See it Live</button>
+    <button className="btn btn-primary" data-toggle="button"><a href="https://mdurst365.github.io/javascript_analog_clock/" target="_blank" rel="noreferrer">See it Live</a></button>
     <br/>
-    <button className="btn btn-info" data-toggle="button">View the Code</button>
+    <button className="btn btn-info" data-toggle="button"><a href="https://github.com/mdurst365/javascript_analog_clock" target="_blank" rel="noreferrer">View the Code</a></button>
     <br/>  
     </div>
     <div className="col">
       <img className="projectImg" src={taco_beer_icon} alt="taco_beer_icon" />
       <br/>
-    <button className="btn btn-primary" data-toggle="button">See it Live</button>
+    <button className="btn btn-primary" data-toggle="button"><a href="https://mdurst365.github.io/tacos_and_beer/index.html" target="_blank" rel="noreferrer">See it Live</a></button>
     <br/>
-    <button className="btn btn-info" data-toggle="button">View the Code</button>
+    <button className="btn btn-info" data-toggle="button"><a href="https://github.com/mdurst365/tacos_and_beer" target="_blank" rel="noreferrer">View the Code</a></button>
     <br/> 
       </div>
     <div className="row">
       <div className="col">
       <img className="projectImg" src={soccer_icon} alt="soccer_icon" />
       <br/>
-    <button className="btn btn-primary" data-toggle="button">See it Live</button>
+    <button className="btn btn-primary" data-toggle="button"><a href="https://project2sports.herokuapp.com/login" target="_blank" rel="noreferrer">See it Live</a></button>
     <br/>
-    <button className="btn btn-info" data-toggle="button">View the Code</button>
+    <button className="btn btn-info" data-toggle="button"><a href="https://github.com/mdurst365/Project2" target="_blank" rel="noreferrer">View the Code</a></button>
     <br/> 
       </div>
       <div className="col">
       <img className="projectImg" src={hamburger_icon} alt="hamburger_icon" />
       <br/>
-    <button className="btn btn-primary" data-toggle="button">See it Live</button>
+    <button className="btn btn-primary" data-toggle="button"><a href="https://calm-scrubland-53285.herokuapp.com/" target="_blank" rel="noreferrer">See it Live</a></button>
     <br/>
-    <button className="btn btn-info" data-toggle="button">View the Code</button>
+    <button className="btn btn-info" data-toggle="button"><a href="https://github.com/mdurst365/burgereater" target="_blank" rel="noreferrer">View the Code</a></button>
     <br/> 
       </div>
       <div className="col">
       <img className="projectImg" src={weather_icon} alt="weather_icon" />
       <br/>
-    <button className="btn btn-primary" data-toggle="button">See it Live</button>
+    <button className="btn btn-primary" data-toggle="button"><a href="https://mdurst365.github.io/weather_dashboard/" target="_blank" rel="noreferrer">See it Live</a></button>
     <br/>
-    <button className="btn btn-info" data-toggle="button">View the Code</button>
+    <button className="btn btn-info" data-toggle="button"><a href="https://github.com/mdurst365/weather_dashboard" target="_blank" rel="noreferrer">View the Code</a></button>
     <br/> 
       </div>
       <div className="col">
       <img className="projectImg" src={fireworks_icon} alt="fireworks_icon" />
       <br/>
-    <button className="btn btn-primary" data-toggle="button">See it Live</button>
+    <button className="btn btn-primary" data-toggle="button"><a href="https://mdurst365.github.io/new_year_countdown/index.html" target="_blank" rel="noreferrer">See it Live</a></button>
     <br/>
-    <button className="btn btn-info" data-toggle="button">View the Code</button>
+    <button className="btn btn-info" data-toggle="button"><a href="https://github.com/mdurst365/new_year_countdown" target="_blank" rel="noreferrer">View the Code</a></button>
     <br/> 
       </div>
     </div>

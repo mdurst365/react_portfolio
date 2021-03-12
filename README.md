@@ -18,14 +18,6 @@ If you are opting out of career services, this is *still a required assignment*.
 
 * **Important**: Be sure to push your codebase to GitHub and **NOT** your built and deployed code. Ensure this happens by following the above instructions and using the `gh-pages` branch to host the deployed application's code.
 
-## Grading
-
-| Requirement    | Weight |
-| -------------- | ------ |
-| Portfolio      | 90%    |
-| GitHub Profile | 10%    |
-
-
 ## Instructions
 
 * [Updated Portfolio](#updated-portfolio)

@@ -3,7 +3,7 @@
     margin: auto;
 }
 
-.nav a {
+a {
     color:white !important;
 }
 
@@ -48,14 +48,14 @@
   }
 
   .projectImg {
-    width: 18%;
-    margin:2%;
+    width: 60%;
+    margin:6%;
     border: thin solid gray;
 }
 
 @media only screen and (max-width: 600px) {
     .projectImg {
-        width: 40%;
+        width: 100%;
         margin:2%;
         border: thin solid gray;
     }

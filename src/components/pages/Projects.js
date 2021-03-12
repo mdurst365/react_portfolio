@@ -6,7 +6,7 @@ import taco_beer_icon from "../images/taco_beer_icon.png";
 import hamburger_icon from "../images/hamburger_icon.png";
 import weather_icon from "../images/weather_icon.png";
 import fireworks_icon from "../images/fireworks_icon.png";
-import soccer_icon from "../images/soccer_icon.png"
+import soccer_icon from "../images/soccer_icon.png";
 
 
 function Projects() {

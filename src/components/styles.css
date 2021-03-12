@@ -3,7 +3,7 @@
     margin: auto;
 }
 
-a {
+a .nav {
     color:white !important;
 }
 
@@ -59,4 +59,12 @@ a {
         margin:2%;
         border: thin solid gray;
     }
+  }
+
+  .btn {
+      margin: 1%;
+  }
+
+  .bold {
+      font-weight: 600;
   }

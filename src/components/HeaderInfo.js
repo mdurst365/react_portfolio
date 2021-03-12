@@ -6,7 +6,7 @@ import profile_pic from "./images/profile_pic.jpg"
 function HeaderInfo() {
     return (
         <div className="jumbotron jumbotron-fluid">   
-        <div className="imageLeft"><img className="profile" src={profile_pic} alt="profile" />
+        <div className="moreLeft"><img className="profile" src={profile_pic} alt="profile" />
         <div className="headerText">
         <h1>Hello</h1>
         My name is Molly Durst. <br/>

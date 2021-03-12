@@ -1,17 +1,19 @@
 import React from "react";
-import profile_pic from "../images/profile_pic.jpg"
+import "../styles.css";
+import profile_pic from "../images/profile_pic.jpg";
 
 function Home() {
   return (
-    <div>
-      <h1>Hello</h1>
-      <div className="imageLeft"><img className="profile" src={profile_pic} alt="profile" />
-      <p>
+    <div className="jumbotron jumbotron-fluid"> 
+      <div className="moreLeft"><img className="profile" src={profile_pic} alt="profile" />
+      <p className="headerText">
+     <h1>Hello</h1>  
       My name is Molly Durst. <br/>
         I am a web designer and developer who studies New Media Communication (UX focused) <br/>
         and Full-Stack development at the Ohio State University.<br/>
-      </p>
-    </div></div>
+      </p> 
+    </div>
+    </div>
   );
 }
 

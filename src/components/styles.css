@@ -1,0 +1,62 @@
+.footer {
+    text-align: center;
+    margin: auto;
+}
+
+a {
+    color:white !important;
+}
+
+.nav {
+    padding: 1%;
+    font-size: 1.25em;
+}
+
+.headerText {
+    display: inline-block;
+    width: 90%;
+    padding-left:2%;
+    font-size: 1.5em;
+}
+
+.moreLeft {
+    padding-left:2%;
+}
+
+.profile {
+    display: inline-block;
+    vertical-align: top;
+    width: 10%;
+    border: thin solid gray;
+    border-radius: 25px;
+}
+
+.hero {
+    width: 100%;
+}
+
+.portfolioImg {
+    width: 20%;
+    margin:2%;
+}
+
+@media only screen and (max-width: 600px) {
+    .portfolioImg {
+        width: 45%;
+        margin:2%;
+    }
+  }
+
+  .projectImg {
+    width: 18%;
+    margin:2%;
+    border: thin solid gray;
+}
+
+@media only screen and (max-width: 600px) {
+    .projectImg {
+        width: 40%;
+        margin:2%;
+        border: thin solid gray;
+    }
+  }

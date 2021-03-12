@@ -3,7 +3,7 @@
     margin: auto;
 }
 
-a .nav {
+.nav a {
     color:white !important;
 }
 
@@ -67,4 +67,9 @@ a .nav {
 
   .bold {
       font-weight: 600;
+  }
+
+  .contactImg {
+      width:5%;
+      margin: 1%;
   }

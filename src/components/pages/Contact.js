@@ -10,10 +10,10 @@ function Contact(props) {
     <div className="moreLeft">
       <h1>Contact Me</h1>
     <p>Feel free to reach out! I look forward to connecting with you.</p>
-   <p><img className="contactImg" src={ pdfIcon } alt="github icon" /><a href={Resume}>Click here to download my resume</a></p>
-    <img className="contactImg" src={ github_icon } alt="github icon" /><a href="https://github.com/mdurst365" target="_blank" rel="noreferrer"> Github</a><br/>
-    <img className="contactImg" src={ linkedIn_icon } alt="linkedIn icon" /><a href="https://www.linkedin.com/in/molly-durst-94a05041/" target="_blank" rel="noreferrer"> LinkedIn</a><br/>
-    <img className="contactImg" src={ email_icon } alt="email icon" /><a href="mailto:mollymadegraphics@yahoo.com">Email me</a>
+   <p><img className="contactImg" src={ pdfIcon } alt="github icon" /><a className="contactLink" href={Resume}>Click here to download my resume</a></p>
+    <img className="contactImg" src={ github_icon } alt="github icon" /><a className="contactLink" href="https://github.com/mdurst365" target="_blank" rel="noreferrer"> Github</a><br/>
+    <img className="contactImg" src={ linkedIn_icon } alt="linkedIn icon" /><a className="contactLink" href="https://www.linkedin.com/in/molly-durst-94a05041/" target="_blank" rel="noreferrer"> LinkedIn</a><br/>
+    <img className="contactImg" src={ email_icon } alt="email icon" /><a className="contactLink" href="mailto:mollymadegraphics@yahoo.com">Email me</a>
     <p>&nbsp;</p>
     <p>&nbsp;</p>
     <p>&nbsp;</p>

@@ -36,17 +36,17 @@ a {
     width: 100%;
 }
 
-.portfolioImg {
-    width: 20%;
-    margin:2%;
+.Wrapper {
+    margin:2.5%;
+    padding: 1%;
+    width:19%;
+    float:left;
+    border: thin solid gray;
 }
 
-@media only screen and (max-width: 600px) {
-    .portfolioImg {
-        width: 45%;
-        margin:2%;
-    }
-  }
+.portfolioImg {
+    width: 100%;
+}
 
   .projectImg {
     width: 60%;

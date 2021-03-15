@@ -1,18 +1,16 @@
 # Unit 20 React Homework: React Portfolio
 
-Now that you've worked with React and have multiple projects to share, you'll be updating your portfolio and other materials to build toward being employer competitive. Creating a portfolio using React will help set you apart from other developers whose portfolios do not use some of the latest technologies.
-
-If you are opting out of career services, this is *still a required assignment*. Part of being a web developer means being a part of a community. Having a place to share your projects is *necessary* if you're applying for jobs, but is still *critical* on your journey as a developer.
+This was a homework assignment created for the OSU Coding Bootcamp. It uses React components to remake a previously built multi-page web application into a single page one.
 
 ## Requirements
 
-- [ ] Updated portfolio featuring 6 total projects
+- [x] Updated portfolio featuring 6 total projects
 - [x] Use React
 - [x] A `Header` component that appears on multiple pages
 - [x] A single `Project` component that will be used multiple times on a single page 
 - [x] Navigation with React Router, dynamic rendering, or another third part router
 - [x] A `Footer` component that appears on multiple pages
-- [ ] Update GitHub profile with pinned repositories featuring those same projects
+- [x] Update GitHub profile with pinned repositories featuring those same projects
 
 * Deploy this site to GitHub Pages using the [Create React App docs for deployment.](https://create-react-app.dev/docs/deployment/#github-pages)
 

@@ -2,41 +2,41 @@
   {
     "id": 1,
     "cardname": "Sunday Barbeque",
-    "image": "https://raw.githubusercontent.com/mdurst365/react_portfolio/main/src/components/images/bbq_flyer.92d1658a.jpg"
+    "image": "https://raw.githubusercontent.com/mdurst365/react_portfolio/main/src/components/images/bbq_flyer.jpg"
   },
   {
     "id": 2,
     "cardname": "Literary Festival",
-    "image": "https://raw.githubusercontent.com/mdurst365/react_portfolio/main/src/components/images/book_show.25432585.jpg"
+    "image": "https://raw.githubusercontent.com/mdurst365/react_portfolio/main/src/components/images/book_show.jpg"
   },
   {
     "id": 3,
     "cardname": "30% Off Sale",
-    "image": "https://raw.githubusercontent.com/mdurst365/react_portfolio/main/src/components/images/boutique_flyer.5d6c3d0a.jpg"
+    "image": "https://raw.githubusercontent.com/mdurst365/react_portfolio/main/src/components/images/boutique_flyer.jpg"
   },
   {
     "id": 4,
     "cardname": "Farmer's Market",
-    "image": "https://raw.githubusercontent.com/mdurst365/react_portfolio/main/src/components/images/farmers_market.44899de5.jpg"
+    "image": "https://raw.githubusercontent.com/mdurst365/react_portfolio/main/src/components/images/farmers_market.jpg"
   },
   {
     "id": 5,
     "cardname": "Ladies Night",
-    "image": "https://raw.githubusercontent.com/mdurst365/react_portfolio/main/src/components/images/LADIES_NIGHT.cc0db850.jpg"
+    "image": "https://raw.githubusercontent.com/mdurst365/react_portfolio/main/src/components/images/LADIES_NIGHT.jpg"
   },
   {
     "id": 6,
     "cardname": "Fashion Sale",
-    "image": "https://raw.githubusercontent.com/mdurst365/react_portfolio/main/src/components/images/sale_flyer.f2250fb6.jpg"
+    "image": "https://raw.githubusercontent.com/mdurst365/react_portfolio/main/src/components/images/sale_flyer.jpg"
   },
   {
     "id": 7,
     "cardname": "Medial Maximum",
-    "image": "https://raw.githubusercontent.com/mdurst365/react_portfolio/main/src/components/images/sales_growth.42160e2e.jpg"
+    "image": "https://raw.githubusercontent.com/mdurst365/react_portfolio/main/src/components/images/sales_growth.jpg"
   },
   {
     "id": 8,
     "cardname": "Summer Festival",
-    "image": "https://raw.githubusercontent.com/mdurst365/react_portfolio/main/src/components/images/react_portfolio/static/media/summer_festival.e5c87417.jpg"
+    "image": "https://raw.githubusercontent.com/mdurst365/react_portfolio/main/src/components/images/summer_festival.jpg"
   }
 ]

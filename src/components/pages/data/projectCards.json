@@ -1,0 +1,44 @@
+[
+    {
+      "id": 1,
+      "cardname": "Tacos and Beer App",
+      "image": "https://raw.githubusercontent.com/mdurst365/react_portfolio/main/src/components/images/taco_beer_icon.png",
+      "livelink": "https://mdurst365.github.io/tacos_and_beer/index.html",
+      "codelink": "https://github.com/mdurst365/tacos_and_beer"
+    },
+    {
+        "id": 2,
+        "cardname": "Fantasy Soccer App",
+        "image": "https://raw.githubusercontent.com/mdurst365/react_portfolio/main/src/components/images/soccer_icon.png",
+        "livelink": "https://project2sports.herokuapp.com/login",
+        "codelink": "https://github.com/mdurst365/Project2"
+    },
+    {
+        "id": 3,
+        "cardname": "JS New Year's Countdown",
+        "image": "https://raw.githubusercontent.com/mdurst365/react_portfolio/main/src/components/images/fireworks_icon.png",
+        "livelink": "https://mdurst365.github.io/new_year_countdown/index.html",
+        "codelink": "https://github.com/mdurst365/new_year_countdown"
+    },
+    {
+        "id": 4,
+        "cardname": "Coding Quiz",
+        "image": "https://raw.githubusercontent.com/mdurst365/react_portfolio/main/src/components/images/quiz_icon.png",
+        "livelink": "https://mdurst365.github.io/Coding_Quiz/",
+        "codelink": "https://github.com/mdurst365/Coding_Quiz"
+    },
+    {
+        "id": 5,
+        "cardname": "Work Day Planner",
+        "image": "https://raw.githubusercontent.com/mdurst365/react_portfolio/main/src/components/images/day_planner.png",
+        "livelink": "https://mdurst365.github.io/dayplanner/",
+        "codelink": "https://github.com/mdurst365/dayplanner"
+    },
+    {
+        "id": 6,
+        "cardname": "Weather Dashboard",
+        "image": "https://raw.githubusercontent.com/mdurst365/react_portfolio/main/src/components/images/weather_icon.png",
+        "livelink": "https://mdurst365.github.io/weather_dashboard/",
+        "codelink": "https://github.com/mdurst365/weather_dashboard"
+    }
+]    

@@ -7,7 +7,7 @@ class Portfolio extends Component {
     return (
       <div>
         <br/>
-        <h2 className="moreLeft">Design Projects</h2>
+        <h2 className="moreLeft">Web Design Projects</h2>
         {Cards.map ((cardDetail, index) => {
           return <div key={index}>
           <div className="Wrapper">
